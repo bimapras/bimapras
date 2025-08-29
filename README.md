@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Bima Prastyaji an active student majoring in Computer Science at Universitas Dian 
-Nuswantoro, who focuses on Machine Learning and want to learn more about Machine Learning. 
+My name is Bima Prastyaji Graduated in Computer Science at Universitas Dian 
+Nuswantoro, who focuses on Machine Learning and Deep Learning especially in the field of Signal Processing and Music.
 <!--
 **bimapras/bimapras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
