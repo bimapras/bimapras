@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is Bima Prastyaji Graduated in Computer Science at Universitas Dian 
-Nuswantoro, who focuses on Machine Learning and Deep Learning especially in the field of Signal Processing and Music.
+My name Bima Prastyaji, and I have a strong interest in Machine Learning, particularly in the areas of Signal Processing and Music Technology. My focus lies in exploring how machine learning algorithms can be applied to understand, analyze, and manipulate audio signals — both in musical and general audio contexts.
 <!--
 **bimapras/bimapras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
